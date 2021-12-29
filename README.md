@@ -1,4 +1,3 @@
-
 [![Build Status](https://dev.azure.com/pavanvarma0135/AZ-400/_apis/build/status/pavankumard.ContosoAir?branchName=master)](https://dev.azure.com/pavanvarma0135/AZ-400/_build/latest?definitionId=26&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
@@ -49,6 +48,7 @@ Then you run the ARM template with the following commands ([Azure CLI](https://d
 cd deployment
 az group deployment create --resource-group <resource_group_name> --template-file azuredeploy.json --parameters p_environment=dev
 ```
+[![Build Status](https://dev.azure.com/pavanvarma0135/AZ-400/_apis/build/status/pavankumard.ContosoAir?branchName=master)](https://dev.azure.com/pavanvarma0135/AZ-400/_build/latest?definitionId=26&branchName=master)](https://dev.azure.com/pavanvarma0135/AZ-400/_apis/build/status/pavankumard.ContosoAir?branchName=master)
 
 What's left is to compress the whole folder in a zip file and upload it to Azure. Manually it can be done going to [https://<app_service_resource>.scm.azurewebsites.net/ZipDeployUI](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-nodejs#deploy-zip-file)
 
