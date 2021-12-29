@@ -1,3 +1,6 @@
+
+[![Build Status](https://dev.azure.com/pavanvarma0135/AZ-400/_apis/build/status/pavankumard.ContosoAir?branchName=master)](https://dev.azure.com/pavanvarma0135/AZ-400/_build/latest?definitionId=26&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
